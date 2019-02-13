@@ -27,4 +27,4 @@ full_data_set:
 Contains all the collected GNSS data in one single csv files
 
 only_right_lane_data_on_a60_highway:
-Contains only GNSS data that was recorded
+Contains only GNSS data that was recorded on the right lane of the highway a60 - without performing any lane changes when traveling.
